@@ -1,0 +1,5 @@
+﻿<material>
+  <technique name="Techniques/DiffOutline.xml" />
+  <parameter name="OutlineColor" value="1 1 0 0" />
+  <parameter name="OutlineEnable" value="false" />
+</material>
